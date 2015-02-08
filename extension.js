@@ -89,7 +89,7 @@
         etaRestriction: false,
         welcome: true,
         opLink: null,
-        rulesLink: null,
+        rulesLink: "http://www.connectthesongs.com/?page_id=492",
         themeLink: null,
         fbLink: null,
         youtubeLink: null,
